@@ -88,26 +88,24 @@ Dictator is a word-search-engine made for students spacially for IELTS students 
 5. **Students can save search results in offline**
    <details ><summary>snapshot</summary>
 
-   <img  src="Screenshots/" width="300"/> 
+   <img  src="Screenshots/Screenshot_1649398165.png" width="300"/> 
    
 
    </details>
 6. **Students can take note as a PDF**
-   <details ><summary>snapshot</summary>
-
-   ![Feature_3][ps4]
-
-   </details>
+   
 7. **Separate error screen**
    notify all kind of crashes here.
    <details ><summary>snapshot</summary>
 
-   ![Feature_3][ps4]
+   <img  src="Screenshots/Screenshot_1614395831.png" width="300"/> 
+   
 
    </details>
 ## Built With 
 #### Frontend Technology  
 * [React Native](https://reactnative.dev/)
+* [React Context API](https://reactnative.dev/)
 
 
 #### Backend Technology  
@@ -201,7 +199,7 @@ Now you have to run some commands to start the app.
    
 ### Backend
 Use those commands to run the backend server.
-1. Configure Emails. 
+1. Configure Email and MongoClient. 
    goto this path `Backend/config.py` and make change with your information
    ```py
    # When students send a feedback your ADMIN_EMAIL will recive a mail from DICTATOR_EMAIL;
@@ -209,6 +207,8 @@ Use those commands to run the backend server.
    DICTATOR_EMAIL: str = "<sender_gmail>"
    DICTATOR_PASSWORD: str = "<sender_gmail_pass>"
    ADMIN_EMAIL: str = "<reciver_gmail>"
+   # mongoClient Url
+   MONGO_CLIENT_URL = "<mongoclient_url>"
    ```
 2.  Now run the Backend server
     ```sh
