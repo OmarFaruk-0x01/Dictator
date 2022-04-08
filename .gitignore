@@ -65,6 +65,6 @@ buck-out/
 
 *.pyc
 __pycache__
-log*
+log.txt
 .vscode
 *.fig

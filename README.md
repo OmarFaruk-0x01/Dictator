@@ -3,8 +3,8 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/OmarFaruk-0x01/Dictator" >
-    <img src="icon.png" alt="Logo" width="300" height="160">
+  <a href="https://github.com/OmarFaruk-0x01/Dictator" > 
+    <img src="logo.png" alt="Logo" width="300" height="160">
   </a>
 
 <div>
