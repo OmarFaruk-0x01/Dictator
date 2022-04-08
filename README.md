@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/OmarFaruk-0x01/Dictator" >
-    <img src="Frontend/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Logo" width="130" height="130">
+    <img src="Screenshots/logo.png" alt="Logo" width="300" height="160">
   </a>
 
 <div>
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="Screenshots/F1.png">
+<img src="Screenshots/Feature%20Graphic%20Dictator.png">
 </div><br>
 Dictator is a word-search-engine made for students spacially for IELTS students with awesome features e.g. <b>Clean UI</b>, <b>Synonyms</b>, <b>Antonyms</b>, <b>Examples</b>, <b>Grammars</b>, <b>Translation</b>, <b>Saving Offline</b>, <b>Generating PDF</b>, etc. The app was made with React Native as a Frontend Technology and Python Flask as a Backend Technology. The app will help students a lot. Students can easily get Word Information and make a note by generating a PDF with one click.  
 
