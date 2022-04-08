@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/OmarFaruk-0x01/Dictator" >
-    <img src="Screenshots/logo.png" alt="Logo" width="300" height="160">
+    <img src="icon.png" alt="Logo" width="300" height="160">
   </a>
 
 <div>
